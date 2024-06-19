@@ -1,0 +1,21 @@
+<graphml>
+  <graph id="G" edgedefault="undirected">
+
+    <!-- Nodes -->
+    <node id="1"/>
+    <node id="2"/>
+    <node id="3"/>
+    <node id="4"/>
+    <node id="5"/>
+
+    <!-- Edges -->
+    <edge id="1" source="2" target="1"/>
+    <edge id="2" source="3" target="1"/>
+    <edge id="3" source="4" target="1"/>
+    <edge id="4" source="4" target="3"/>
+    <edge id="5" source="4" target="2"/>
+    <edge id="6" source="5" target="2"/>
+    <edge id="7" source="5" target="4"/>
+
+  </graph>
+</graphml>
